@@ -6,7 +6,7 @@
 3. Ejecutar el siguiente comando.
 ` node app.js`
 4. Probar la siguientes siguientes rutas.
-> localhost:3000
-> localhost:3000/minombre
-> localhost:3000/nomdicente
-> localhost:3000/materia
+> 1. localhost:3000
+> 2. localhost:3000/minombre
+> 3. localhost:3000/nomdicente
+> 4. localhost:3000/materia
